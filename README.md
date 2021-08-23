@@ -1,0 +1,2 @@
+# canonMG5150ubuntu20mint20
+canonMG5150ubuntu20mint20
